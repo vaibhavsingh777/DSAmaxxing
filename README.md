@@ -1,8 +1,11 @@
 # DSAmaxxing
 
-here i dsamaxx daily problems from all nooks and corners. I am gonna destroy ts chat no cap.
+my plan: to watch Striver A2Z videos and then solve leetcode problems by myself. I will make notes(left digital note taking post sem 3) for DSA from strivers videos, and after every chapter completes just for backup I will also upload those notes in this repository.
 
-ig: @cheekycaibhav
+for mastering DSA, I have to be consistent and make sure I am atleast able to solve all easy and medium problems on leetcode atleast before moving to the harder problems.
 
-what I am currently doing for DSA -
-I am completing the BossCoder sheet entirely once to get a hold of all topics of data structures, and side by side keep solving leetcode easy and medium problems to keep in touch with the basics.
+Remember always keep moving, dont stay stuck or stop, because my lifes biggest motivation has always been to persevere till the goal is not reached.
+
+I will become a successful software developer one day.
+
+follow me @ig: @cheekycaibhav
